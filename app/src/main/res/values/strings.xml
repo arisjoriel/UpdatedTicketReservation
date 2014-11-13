@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ticket Reservation</string>
+    <string name="edit_username">StudentNo/FacultyNo</string>
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="button_reserve">Reserve Tickets</string>
+    <string name="user_name">User Name</string>
+    <string name="pass_word">Password</string>
+    <string name="event_name">Event Name</string>
+    <string name="no_of_tickets">Number of Tickets</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="thank_you">Thank you for reserving tickets!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_log_in">Log In Activity</string>
+    <string name="title_activity_main">Reservation of Tickets</string>
+    <string name="title_activity_result">Success!</string>
+
+</resources>
